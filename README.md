@@ -10,15 +10,15 @@
 <br/>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
 </div>
 
 <br/>
 
-### 👨‍💻 About Me
+### 👩‍💻 About Me
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" align="right" />
+  <img src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" align="right" />
 </p>
 
 - 🔭 I'm currently working on **Flutter & Web Applications**
@@ -31,7 +31,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
 </div>
 
 <br/>
@@ -71,7 +71,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
 </div>
 
 <br/>
@@ -87,21 +87,21 @@
 <table align="center">
   <tr>
     <td align="center" width="200">
-      <img src="https://cdn-icons-png.flaticon.com/512/3081/3081924.png" width="60" />
+      <img src="https://cdn-icons-png.flaticon.com/512/2920/2920274.png" width="60" />
       <br/>
       <b>E-Commerce Store</b>
       <br/>
       <span style="color:#2ea043;">✅ Ready</span>
     </td>
     <td align="center" width="200">
-      <img src="https://cdn-icons-png.flaticon.com/512/3081/3081937.png" width="60" />
+      <img src="https://cdn-icons-png.flaticon.com/512/2920/2920322.png" width="60" />
       <br/>
       <b>Appointment Booking</b>
       <br/>
       <span style="color:#2ea043;">✅ Ready</span>
     </td>
     <td align="center" width="200">
-      <img src="https://cdn-icons-png.flaticon.com/512/2964/2964517.png" width="60" />
+      <img src="https://cdn-icons-png.flaticon.com/512/2920/2920285.png" width="60" />
       <br/>
       <b>Fitness Tracker</b>
       <br/>
@@ -110,21 +110,21 @@
   </tr>
   <tr>
     <td align="center" width="200">
-      <img src="https://cdn-icons-png.flaticon.com/512/3081/3081956.png" width="60" />
+      <img src="https://cdn-icons-png.flaticon.com/512/2920/2920275.png" width="60" />
       <br/>
       <b>Analytics Dashboard</b>
       <br/>
       <span style="color:#2ea043;">✅ Ready</span>
     </td>
     <td align="center" width="200">
-      <img src="https://cdn-icons-png.flaticon.com/512/2111/2111610.png" width="60" />
+      <img src="https://cdn-icons-png.flaticon.com/512/2920/2920326.png" width="60" />
       <br/>
       <b>Social Media App</b>
       <br/>
       <span style="color:#2ea043;">✅ Ready</span>
     </td>
     <td align="center" width="200">
-      <img src="https://cdn-icons-png.flaticon.com/512/3081/3081908.png" width="60" />
+      <img src="https://cdn-icons-png.flaticon.com/512/2920/2920279.png" width="60" />
       <br/>
       <b>Task Manager</b>
       <br/>
@@ -136,7 +136,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
 </div>
 
 <br/>
@@ -155,7 +155,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
 </div>
 
 <br/>
@@ -179,15 +179,15 @@
 ### 🐍 Snake Eating My Contributions
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AyaOdeh/AyaOdeh/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AyaOdeh/AyaOdeh/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/AyaOdeh/AyaOdeh/output/github-contribution-grid-snake.svg" />
 </picture>
 
 <br/>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
 </div>
 
 <br/>
